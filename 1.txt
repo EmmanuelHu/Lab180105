@@ -1,2 +1,3 @@
 Line 1 from echo 
 Line 2 from notepad
+Line 3 from notepad
