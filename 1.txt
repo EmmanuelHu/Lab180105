@@ -1,3 +1,4 @@
 Line 1 from echo 
 Line 2 from notepad
-Line 3 from notepad
+Line 3 from GitHub editor
+Line 4 from notepad
